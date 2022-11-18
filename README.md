@@ -2,7 +2,6 @@
 - 👀 I’m interested in Java Backend
 - 🌱 I’m currently learning Java
 - 💬 How to reach me @Abdu_Lateef via telegram
-- 
 
 <!---
 Abdullatiyf/Abdullatiyf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
